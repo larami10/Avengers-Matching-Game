@@ -1,4 +1,4 @@
-# Avengers-Matching-Game
+# Avengers Matching Game
 
 A simple Avengers themed Matching Game featuring:
 
