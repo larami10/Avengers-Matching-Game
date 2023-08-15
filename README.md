@@ -13,13 +13,4 @@ A simple Avengers themed Matching Game featuring:
 
 ## How to use the Project
 
-You can clone the repository and:
-
-```
-cd Avengers-Matching-Game
-```
-
-### To Run the Program
-
-1. Open index.html in a browser
-2. Begin clicking cards to create a match until the board is cleared.
+This project is being hosted by Firebase [Avengers Matching Game](https://avengers-matching-game.web.app/)
